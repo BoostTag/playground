@@ -122,6 +122,8 @@ export class State {
     {name: "xTimesY", type: Type.BOOLEAN},
     {name: "xSquared", type: Type.BOOLEAN},
     {name: "ySquared", type: Type.BOOLEAN},
+    {name: "theta", type: Type.BOOLEAN},
+    {name: "r", type: Type.BOOLEAN},
     {name: "cosX", type: Type.BOOLEAN},
     {name: "sinX", type: Type.BOOLEAN},
     {name: "cosY", type: Type.BOOLEAN},
